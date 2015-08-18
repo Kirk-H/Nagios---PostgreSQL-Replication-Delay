@@ -17,7 +17,6 @@ It is more secure to provide the user executing the script with a .pgpass file t
 
 #import libraries
 from optparse import OptionParser, OptionGroup
-import logging as log
 import psycopg2
 import sys
 
