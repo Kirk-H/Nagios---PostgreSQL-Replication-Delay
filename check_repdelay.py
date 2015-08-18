@@ -8,6 +8,11 @@ __maintainer__ = "Kirk Hammond"
 __status__ = "Production"
 __credits__ = "Kirk Hammond"
 
+"""
+This script will check the hot standby replication delay of a postgresql database.
+It is more secure to provide the user executing the script with a .pgpass file than to include the password in the script.
+"""
+
 
 #import libraries
 from optparse import OptionParser, OptionGroup
