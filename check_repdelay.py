@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# written in 2.6.6 on CentOS 6. All other versions untested.
 #Header Info
 __author__= 'Kirk Hammond'
 __email__ = 'kirkdhammond@gmail.com'
