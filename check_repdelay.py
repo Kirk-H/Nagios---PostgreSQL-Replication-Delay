@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # written in 2.6.6 on CentOS 6. All other versions untested.
 #Header Info
-__author__= 'Kirk Hammond'
-__email__ = 'kirkdhammond@gmail.com'
+__author__= 'Splix76'
+__email__ = 'splixseventysix@gmail.com'
 __version__ = '1.0'
 __license__ = "GPLv3"
-__maintainer__ = "Kirk Hammond"
+__maintainer__ = "Splix76"
 __status__ = "Production"
-__credits__ = "Kirk Hammond"
+__credits__ = "Splix76"
 
 """
 This script will check the hot standby replication delay of a postgresql database.
